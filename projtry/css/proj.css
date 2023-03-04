@@ -71,7 +71,7 @@ ul li a {
 .icons {
     position: absolute;
     bottom: 0;
-    left: 50%;
+    left: auto;
 }
 .icons img {
     width: 40px;
